@@ -10,6 +10,7 @@
 .byaNav{padding: .5rem 1rem; }
 .maincontent{padding: .5rem 4rem; }
 .BEMinfocard__img{height: 40rem; min-width:100%; object-fit: cover;}
+.img-fluid-bya{max-width: 100%; object-fit: cover;}
 }
 
 @media only screen and (max-width: 575px) {
@@ -19,6 +20,7 @@ address{text-align: center;}
 .carousel-caption{text-align: left;}
 .maincontent{padding: .5rem .5rem;}
 .BEMinfocard__img{height: 25rem; min-width:100%; object-fit: cover;}
+.img-fluid-bya{max-width: 100%; object-fit: cover;}
 }
 
 
